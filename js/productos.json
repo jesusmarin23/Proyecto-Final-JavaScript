@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Abrigo Diadora Negra",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Abrigo Mountain Gear",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Abrigo Mountain Gear Verde Militar",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Abrigo Deportivo Kappa",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Abrigo Diadora Beige",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2850
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Deportiva Training Adidas",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3100
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Deportiva Nike",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3150
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Deportiva Adidas",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2550
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Deportiva Reebok",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta de Futbol Colombia",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2650
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Deportiva Puma",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta de Futbol Atletico de Madrid",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta de Futbol Bayern Munchen",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 2350
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Jogger Deportivo Puma",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3580
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantaloneta Deportiva Slim Nike",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantaloneta Deportiva Nike",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3420
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantaloneta fit black",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Jogger Deportivo Gris",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3500
+    }
+]
